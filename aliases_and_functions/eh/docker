@@ -1,0 +1,8 @@
+#
+#\e[0;32m d \e[0m       | docker 
+#\e[0;32m dc \e[0m      | docker-compose
+#\e[0;32m dclogs \e[0m  | Follow docker logs, shows 10 lines from the end of the logs.
+#\e[0;32m dclean \e[0m  | Remove dangling images, exited containers etc.
+#\e[0;32m dreset \e[0m  | Reset the first running container matching $1.
+#\e[0;32m dattach \e[0m | attach to first container matching $1. If $1 missing, attach to the first container in `./docker-compose.yml` in any project in `~/src`
+#\e[0;32m dcexec \e[0m  | exec first container matching $1. If $1 missing, bash into the first container in `./docker-compose.yml` in any project in `~/src`

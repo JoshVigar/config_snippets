@@ -1,0 +1,18 @@
+#
+#\e[0;32m g \e[0m           | git
+#\e[0;32m gs \e[0m          | status
+#\e[0;32m gm \e[0m          | checkout & pull master
+#\e[0;32m ga \e[0m          | add all changed files
+#\e[0;32m gc \e[0m          | commit
+#\e[0;32m gp \e[0m          | push
+#\e[0;32m gl \e[0m          | log
+#\e[0;32m gam \e[0m         | amend
+#\e[0;32m gpf \e[0m         | push force with lease
+#\e[0;32m gac \e[0m         | add, commit
+#\e[0;32m gacp \e[0m        | add, commit, force
+#\e[0;32m gbr \e[0m         | checkout
+#\e[0;32m gbrn \e[0m        | checkout new
+#\e[0;32m gbrwhen \e[0m     | List branches in order last updated DESC
+#\e[0;32m gbrbyebye \e[0m   | Delete all local branches except master
+#\e[0;32m gre \e[0m         | interactive rebase $1 number of commits from HEAD
+#\e[0;32m gd \e[0m          | git diff
