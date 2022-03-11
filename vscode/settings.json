@@ -1,0 +1,19 @@
+{
+    "files.autoSave": "onFocusChange",
+    "editor.rulers": [
+    80
+    ],
+    "code-runner.defaultLanguage": "ruby",
+    "editor.minimap.enabled": false,
+    "editor.tabSize": 2,
+    "ruby.rubocop.suppressRubocopWarnings": true,
+    "[javascript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "workbench.editor.labelFormat": "short",
+    "editor.defaultFormatter": "misogi.ruby-rubocop",
+    "diffEditor.ignoreTrimWhitespace": false,
+    "git.confirmSync": false,
+    "git.suggestSmartCommit": false,
+    "git.autofetch": true
+}
